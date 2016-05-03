@@ -32,7 +32,7 @@ public class experiment extends AppCompatActivity {
 
         Log.d("test", "testing ji");
         Log.d("test","testing ji");
-        Log.d("test","testing ji");
+        //chunnilal
         Log.d("test","testing ji");
     }
     static final String[] COUNTRIES = new String[]{"Hi", "Hello", "How"};
