@@ -29,6 +29,8 @@ public class experiment extends AppCompatActivity {
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,R.layout.activity_experiment2,COUNTRIES);
         actv.setAdapter(adapter);
+
+        Log.d("test","testing ji");
     }
     static final String[] COUNTRIES = new String[]{"Hi", "Hello", "How"};
 }
